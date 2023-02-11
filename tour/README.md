@@ -1,0 +1,1 @@
+Following [tour of golang](https://tour.golang.org)
